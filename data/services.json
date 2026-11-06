@@ -1,0 +1,78 @@
+[
+  {
+    "slug": "airport-transfer",
+    "name": "Airport Transfer",
+    "noun": "airport transfer",
+    "summary": "Flat-rate private car service between your door and the terminal, with flight tracking and meet-and-greet pickup.",
+    "priceFrom": 95,
+    "currency": "USD",
+    "features": [
+      "Live flight tracking, so pickup moves with delays",
+      "Meet-and-greet at baggage claim with a name sign",
+      "Flat rate quoted upfront, tolls and fees included",
+      "Child seats available on request"
+    ],
+    "faqs": [
+      {
+        "q": "What happens if my flight is delayed?",
+        "a": "We track your flight number and adjust the pickup time automatically. You are not charged for airline delays."
+      },
+      {
+        "q": "Where will the driver meet me?",
+        "a": "For meet-and-greet bookings the chauffeur waits at baggage claim with a name sign. For curbside pickups you receive the driver's number and vehicle details by text."
+      },
+      {
+        "q": "Is the price per person or per vehicle?",
+        "a": "Per vehicle. The quote covers everyone in your party up to the vehicle's seating capacity."
+      }
+    ]
+  },
+  {
+    "slug": "corporate-car-service",
+    "name": "Corporate Car Service",
+    "noun": "corporate car service",
+    "summary": "Executive sedans and SUVs for meetings, roadshows and client pickups, billed to one company account.",
+    "priceFrom": 85,
+    "currency": "USD",
+    "features": [
+      "Monthly invoicing on a single company account",
+      "Hourly as-directed bookings for multi-stop days",
+      "Professionally dressed, background-checked chauffeurs",
+      "Wi-Fi and chargers in every vehicle"
+    ],
+    "faqs": [
+      {
+        "q": "Can several employees book on one account?",
+        "a": "Yes. Each traveller books under the company account and every ride appears on one monthly invoice with cost-centre references."
+      },
+      {
+        "q": "Do you offer hourly bookings?",
+        "a": "Yes. As-directed bookings keep the car and chauffeur with you for a set number of hours, which suits roadshows and multi-stop days."
+      }
+    ]
+  },
+  {
+    "slug": "wedding-limo",
+    "name": "Wedding Limo",
+    "noun": "wedding limo",
+    "summary": "Decorated stretch limousines and luxury sedans for the couple, the wedding party and guest shuttles.",
+    "priceFrom": 450,
+    "currency": "USD",
+    "features": [
+      "Red carpet and ribbon decoration included",
+      "Packages for ceremony, photos and reception",
+      "Guest shuttle coordination between venues",
+      "Complimentary chilled water and champagne flutes"
+    ],
+    "faqs": [
+      {
+        "q": "How far ahead should we book?",
+        "a": "Weekend dates in peak season book out early, so reserve as soon as your venues are confirmed. A deposit holds the vehicle and date."
+      },
+      {
+        "q": "Can we visit several locations?",
+        "a": "Yes. Wedding packages are hourly, so the chauffeur follows your schedule between ceremony, photo locations and reception."
+      }
+    ]
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "slug": "new-york-ny",
+    "city": "New York",
+    "region": "New York",
+    "regionCode": "NY",
+    "country": "US",
+    "geo": { "lat": 40.7128, "lng": -74.006 },
+    "airports": [
+      { "code": "JFK", "name": "John F. Kennedy International Airport" },
+      { "code": "LGA", "name": "LaGuardia Airport" }
+    ],
+    "landmarks": ["Midtown Manhattan", "the Financial District", "Hudson Yards"],
+    "nearby": ["newark-nj", "jersey-city-nj"],
+    "intro": "New York trips are shaped by traffic windows more than distance. A ride from Midtown to JFK can take forty minutes at night and well over an hour at the evening peak, so pickups are timed against live traffic rather than a fixed buffer. Chauffeurs know the bridge and tunnel options and which terminal doors keep curbside waits short."
+  },
+  {
+    "slug": "newark-nj",
+    "city": "Newark",
+    "region": "New Jersey",
+    "regionCode": "NJ",
+    "country": "US",
+    "geo": { "lat": 40.7357, "lng": -74.1724 },
+    "airports": [{ "code": "EWR", "name": "Newark Liberty International Airport" }],
+    "landmarks": ["Downtown Newark", "the Ironbound", "Prudential Center"],
+    "nearby": ["jersey-city-nj", "new-york-ny"],
+    "intro": "Newark sits minutes from EWR, which makes it the natural base for early departures and late international arrivals. Most local rides are short, but cross-Hudson trips into Manhattan depend on Lincoln and Holland Tunnel conditions, so the route is chosen on the day rather than fixed at booking."
+  },
+  {
+    "slug": "jersey-city-nj",
+    "city": "Jersey City",
+    "region": "New Jersey",
+    "regionCode": "NJ",
+    "country": "US",
+    "geo": { "lat": 40.7178, "lng": -74.0431 },
+    "airports": [{ "code": "EWR", "name": "Newark Liberty International Airport" }],
+    "landmarks": ["Exchange Place", "Newport", "Liberty State Park"],
+    "nearby": ["newark-nj", "new-york-ny"],
+    "intro": "Jersey City riders split between EWR, which is usually the quicker airport, and the New York airports when fares or schedules favour them. Waterfront offices around Exchange Place and Newport generate steady corporate travel, and pickups from residential towers are arranged at the lobby or loading entrance the building prefers."
+  },
+  {
+    "slug": "boston-ma",
+    "city": "Boston",
+    "region": "Massachusetts",
+    "regionCode": "MA",
+    "country": "US",
+    "geo": { "lat": 42.3601, "lng": -71.0589 },
+    "airports": [{ "code": "BOS", "name": "Boston Logan International Airport" }],
+    "landmarks": ["the Back Bay", "the Seaport District", "Cambridge"],
+    "nearby": [],
+    "intro": "Logan is close to downtown Boston, but tunnel traffic decides how close. Rides from the Back Bay or Cambridge are planned around the Ted Williams and Sumner tunnels, and university move-in weeks and conference season at the Seaport are booked well ahead because demand spikes all at once."
+  },
+  {
+    "slug": "springfield-xx",
+    "city": "Springfield",
+    "region": "Sample State",
+    "regionCode": "XX",
+    "country": "US",
+    "geo": { "lat": 0, "lng": 0 },
+    "airports": [],
+    "landmarks": [],
+    "nearby": [],
+    "intro": "Placeholder."
+  }
+]
