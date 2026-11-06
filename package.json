@@ -1,0 +1,26 @@
+{
+  "name": "nextjs-programmatic-seo-starter",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Programmatic SEO starter for Next.js: service x location pages from JSON, with a quality gate, JSON-LD, internal linking and a sitemap.",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "npm run audit && next build",
+    "start": "next start",
+    "audit": "tsx scripts/audit.ts",
+    "type-check": "tsc --noEmit"
+  },
+  "dependencies": {
+    "next": "^15.5.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.0"
+  }
+}
